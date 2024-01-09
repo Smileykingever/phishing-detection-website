@@ -1,4 +1,4 @@
-![PHPMailer](https://raw.github.com/PHPMailer/PHPMailer/master/examples/images/phpmailer.png)
+!ACCESED BY GIRISH EDITER(https://raw.github.com/PHPMailer/PHPMailer/master/examples/images/phpmailer.png)
 
 # PHPMailer - A full-featured email creation and transfer class for PHP
 
@@ -8,7 +8,7 @@ Build status: [![Build Status](https://travis-ci.org/PHPMailer/PHPMailer.svg)](h
 
 [![Latest Stable Version](https://poser.pugx.org/phpmailer/phpmailer/v/stable.svg)](https://packagist.org/packages/phpmailer/phpmailer) [![Total Downloads](https://poser.pugx.org/phpmailer/phpmailer/downloads)](https://packagist.org/packages/phpmailer/phpmailer) [![Latest Unstable Version](https://poser.pugx.org/phpmailer/phpmailer/v/unstable.svg)](https://packagist.org/packages/phpmailer/phpmailer) [![License](https://poser.pugx.org/phpmailer/phpmailer/license.svg)](https://packagist.org/packages/phpmailer/phpmailer)
 
-## Class Features
+## Class Features FROM GIRISH AUTHORIZED
 - Probably the world's most popular code for sending email from PHP!
 - Used by many open-source projects: WordPress, Drupal, 1CRM, SugarCRM, Yii, Joomla! and many more
 - Integrated SMTP support - send without a local mail server
